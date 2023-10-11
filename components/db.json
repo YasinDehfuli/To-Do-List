@@ -1,0 +1,34 @@
+{
+  "assignments": [
+    {
+      "name": "Finish Project",
+      "complete": false,
+      "id": 1,
+      "tag": "math"
+    },
+    {
+      "name": "Read Chapter 4",
+      "complete": false,
+      "id": 1,
+      "tag": "gym"
+    },
+    {
+      "name": "Word chapter",
+      "complete": false,
+      "id": 1,
+      "tag": "school"
+    },
+    {
+      "name": "Reading",
+      "complete": true,
+      "id": 1,
+      "tag": "Geo"
+    },
+    {
+      "name": "Finish Laracast",
+      "complete": true,
+      "id": 1,
+      "tag": "Finish"
+    }
+  ]
+}
