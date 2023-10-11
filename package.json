@@ -1,0 +1,26 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Todo List ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx serve & npx json-server assets/components/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/To-Do-List.git"
+  },
+  "keywords": [
+    "Todo-List"
+  ],
+  "author": "Yasin Dehfuli",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/To-Do-List#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
